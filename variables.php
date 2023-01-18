@@ -1,4 +1,4 @@
 <?php
 
-$nombre = "Carlos";
-echo $nombre;
+$nombre_completo = "Carlos";
+echo $nombre_completo;
